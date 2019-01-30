@@ -5,10 +5,14 @@
      <sdef n="n"/>
      <sdef n="sg"/>
      <sdef n="pl"/>
+     <sdef n="vblex"/>
+     <sdef n="pri"/>
+     <sdef n="p1"/>
    </sdefs>
 
    <section id="main" type="standard">
      <e><p><l>gato<s n="n"/></l><r>cat<s n="n"/></r></p></e>
+     <e><p><l>ver<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
 
    </section>
 </dictionary>
