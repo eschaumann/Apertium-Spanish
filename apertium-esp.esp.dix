@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+   <alphabet>aábcdeéfghiíjklmnñoópqrstuúüvwxyz</alphabet>
+
+<sdefs>
+   <sdef n="n"/>
+   <sdef n="sg"/>
+   <sdef n="pl"/>
+</sdefs>
+
+<pardefs>
+  <pardef n="gato__n">
+   <e><p><l/><r><s n="n"/><s n="sg"/></r></p></e>
+   <e><p><l>s</l><r><s n="n"/><s n="pl"/></r></p></e>
+  </pardef>
+</pardefs>
+
+<section id="main" type="standard">
+
+ <e lm="gato"><i>gato</i><par n="gato__n"/></e>
+
+</section>
+</dictionary>
