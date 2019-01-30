@@ -36,6 +36,8 @@
 
  <e lm="gato"><i>gato</i><par n="gato__n"/></e>
  <e lm="perro"><i>perro</i><par n="gato__n"/></e>
+ <e lm="caballo"><i>caballo</i><par n="gato__n"/></e>
+ <e lm="vaca"><i>vaca</i><par n="gato__n"/></e>
  <e lm="ver"><i>ve</i><par n="ve/r__vblex"/></e>
 
 </section>
