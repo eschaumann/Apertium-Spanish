@@ -48,6 +48,7 @@
 <section id="main" type="standard">
 
  <e lm="cat"><i>cat</i><par n="cat__n"/></e>
+ <e lm="dog"><i>dog</i><par n="cat__n"/></e>
  <e lm="see"><i>s</i><par n="s/ee__vblex"/></e>
  <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
 
