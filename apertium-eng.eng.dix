@@ -50,7 +50,7 @@
  <e lm="cat"><i>cat</i><par n="cat__n"/></e>
  <e lm="dog"><i>dog</i><par n="cat__n"/></e>
  <e lm="horse"><i>horse</i><par n="cat__n"/></e>
- <e lm="cow"><i>cow</i><par n="s/ee__vblex"/></e>
+ <e lm="cow"><i>cow</i><par n="cat__vblex"/></e>
  <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
 
 </section>
