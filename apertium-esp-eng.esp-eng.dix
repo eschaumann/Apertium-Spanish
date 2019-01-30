@@ -12,6 +12,7 @@
 
    <section id="main" type="standard">
      <e><p><l>gato<s n="n"/></l><r>cat<s n="n"/></r></p></e>
+     <e><p><l>perro<s n="n"/></l><r>dog<s n="n"/></r></p></e>
      <e><p><l>ver<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
 
    </section>
