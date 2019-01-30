@@ -6,18 +6,36 @@
    <sdef n="n"/>
    <sdef n="sg"/>
    <sdef n="pl"/>
+   <sdef n="vblex"/>
+   <sdef n="p1"/>
+   <sdef n="p2"/>
+   <sdef n="p3"/>
+   <sdef n="pri"/>
 </sdefs>
 
 <pardefs>
-  <pardef n="gato__n">
-   <e><p><l/><r><s n="n"/><s n="sg"/></r></p></e>
-   <e><p><l>s</l><r><s n="n"/><s n="pl"/></r></p></e>
-  </pardef>
+   <pardef n="gato__n">
+      <e><p><l/><r><s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>s</l><r><s n="n"/><s n="pl"/></r></p></e>
+   </pardef>
+   
+   <pardef n="ve/r__vblex">
+	   <e><p><l>o</l><r>eti<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+	   <e><p><l>s</l><r>eti<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+	   <e><p><l></l><r>eti<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+	   <e><p><l>mos</l><r>eti<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+	   <e><p><l>ís</l><r>eti<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+	   <e><p><l>n</l><r>eti<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+	</pardef>
+   
 </pardefs>
+   
+  
 
 <section id="main" type="standard">
 
  <e lm="gato"><i>gato</i><par n="gato__n"/></e>
+ <e lm="ver"><i>ve</i><par n="ve/r__vblex"/></e>
 
 </section>
 </dictionary>
