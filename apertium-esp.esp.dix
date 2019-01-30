@@ -35,6 +35,7 @@
 <section id="main" type="standard">
 
  <e lm="gato"><i>gato</i><par n="gato__n"/></e>
+ <e lm="perro"><i>perro</i><par n="gato__n"/></e>
  <e lm="ver"><i>ve</i><par n="ve/r__vblex"/></e>
 
 </section>
