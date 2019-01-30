@@ -2,6 +2,8 @@
 declare -a sentences=(	"gato"
 			"ver"
 			"veo"
+			"perro"
+			"perros"
 			"gatos"
 			"vemos gatos")
 
