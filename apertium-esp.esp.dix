@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-   <alphabet>aábcdeéfghiíjklmnñoópqrstuúüvwxyz</alphabet>
+   <alphabet>aábcdeéfghiíjklmnñoópqrstuúüvwxyzAÁBCDEÉFGHIJKLMNÑOPQRSTUVWXYZ</alphabet>
 
 <sdefs>
    <sdef n="n"/>
