@@ -16,6 +16,8 @@
      <e><p><l>caballo<s n="n"/></l><r>horse<s n="n"/></r></p></e>
      <e><p><l>vaca<s n="n"/></l><r>cow<s n="n"/></r></p></e>
      <e><p><l>ver<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
+     <e><p><l>caminar<s n="vblex"/></l><r>walk<s n="vblex"/></r></p></e>
+     <e><p><l>hablar<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
 
    </section>
 </dictionary>
