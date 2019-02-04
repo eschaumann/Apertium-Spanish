@@ -22,7 +22,16 @@
    <e><p><l>s</l><r><s n="n"/><s n="pl"/></r></p></e>
   </pardef>
    
-  <pardef n="s/ee__vblex">
+  <pardef n="walk/s__vblex">
+          <e><p><l></l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+	  <e><p><l></l><r>s<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+	  <e><p><l></l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+	  <e><p><l></l><r><s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+	  <e><p><l></l><r><s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+	  <e><p><l></l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+	</pardef>
+	
+    <pardef n="s/ee__vblex">
           <e><p><l>ee</l><r>ee<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
 	  <e><p><l>ee</l><r>ee<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
 	  <e><p><l>ees</l><r>ee<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -53,6 +62,8 @@
  <e lm="cow"><i>cow</i><par n="cat__n"/></e>
  <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
  <e lm="see"><i>s</i><par n="s/ee__vblex"/></e>
+ <e lm="walk"><i>s</i><par n="walk/s__vblex"/></e>
+ <e lm="speak"><i>s</i><par n="walk/s__vblex"/></e>
 
 </section>
 </dictionary>
