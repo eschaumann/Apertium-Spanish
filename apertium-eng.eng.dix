@@ -62,8 +62,8 @@
  <e lm="cow"><i>cow</i><par n="cat__n"/></e>
  <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
  <e lm="see"><i>s</i><par n="s/ee__vblex"/></e>
- <e lm="walk"><i>s</i><par n="walk/s__vblex"/></e>
- <e lm="speak"><i>s</i><par n="walk/s__vblex"/></e>
+ <e lm="walk"><i>walk</i><par n="walk/s__vblex"/></e>
+ <e lm="speak"><i>speak</i><par n="walk/s__vblex"/></e>
 
 </section>
 </dictionary>
