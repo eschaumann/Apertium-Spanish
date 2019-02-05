@@ -8,7 +8,10 @@ declare -a sentences=(	"gato"
 			"gatos"
 			"caballos"
 			"vaca"
-			"vemos gatos")
+			"vemos gatos"
+			"caminamos"
+			"hablan"
+			"camina")
 
 		
 
