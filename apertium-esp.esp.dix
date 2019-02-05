@@ -29,12 +29,12 @@
 </pardef>
 	
 <pardef n="camin/ar__vblex">
-	   <e><p><l>o</l><r>r<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-	   <e><p><l>as</l><r>r<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-	   <e><p><l>a</l><r>r<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-	   <e><p><l>amos</l><r>r<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-	   <e><p><l>aís</l><r>r<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
-	   <e><p><l>an</l><r>r<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+	   <e><p><l>o</l><r>ar<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+	   <e><p><l>as</l><r>ar<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+	   <e><p><l>a</l><r>ar<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+	   <e><p><l>amos</l><r>ar<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+	   <e><p><l>aís</l><r>ar<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+	   <e><p><l>an</l><r>ar<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
 </pardef>
    
 </pardefs>
