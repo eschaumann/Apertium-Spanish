@@ -48,8 +48,8 @@
  <e lm="caballo"><i>caballo</i><par n="gato__n"/></e>
  <e lm="vaca"><i>vaca</i><par n="gato__n"/></e>
  <e lm="ver"><i>ve</i><par n="ve/r__vblex"/></e>
- <e lm="caminar"><i>camina</i><par n="camin/ar__vblex"/></e>
- <e lm="hablar"><i>habla</i><par n="camin/ar__vblex"/></e>
+ <e lm="caminar"><i>camin</i><par n="camin/ar__vblex"/></e>
+ <e lm="hablar"><i>habl</i><par n="camin/ar__vblex"/></e>
 
 </section>
 </dictionary>
